@@ -43,3 +43,12 @@ boxContainer.addEventListener("click", function (e) {
     }
   }
 });
+
+const obj = [
+  { key: "sample 1", data: "data 1" },
+  { key: "sample 2", data: "data 2" },
+  { key: "sample 3", data: "data 3" },
+  { key: "sample 4", data: "data 4" },
+];
+
+
